@@ -10,7 +10,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js",
-    "run tests": "npx jest"
+    "run tests": "npx jest",
+    "migrations": "npx sequelize-cli db:migrate",
+    "undo migrations": "npx sequelize-cli db:migrate:undo"
   },
   "repository": {
     "type": "git",

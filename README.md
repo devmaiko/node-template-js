@@ -28,7 +28,7 @@ Before running the application, ensure you have the following dependencies insta
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/devmaiko/node-template-js.git
    ```
 
 2. Install dependencies:
@@ -47,7 +47,7 @@ Before running the application, ensure you have the following dependencies insta
 4. Run Sequelize migrations to create database tables:
 
    ```bash
-   npm run migrate
+   npm run migrations
    ```
 
 5. Start the Express.js server:
