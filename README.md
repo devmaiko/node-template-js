@@ -100,3 +100,9 @@ project-root/
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any improvements or features you'd like to see in this template project.
+
+# Swagger
+Here we can see the structure of the apis documented into swagger.
+
+![Create User](./docs/image1.png)
+![Create User](./docs/image2.png)
