@@ -1,6 +1,6 @@
 ---
 
-# Node.js Template Project
+# Node.js Template Project [![JavaScript](https://skillicons.dev/icons?i=js,nodejs,express,sequelize,git,postgres,mysql,jest)](https://skillicons.dev)
 
 This is a template project for a Node.js application using Sequelize, Express.js, migrations, Docker Compose for database setup, Swagger for API documentation, and Jest for both end-to-end (E2E) and unit tests.
 
